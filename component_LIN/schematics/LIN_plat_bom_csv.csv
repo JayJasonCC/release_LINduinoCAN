@@ -1,0 +1,27 @@
+Label;Part Type;mn;mpn;part number;
+9V Battery2;BC9VPC;;;;
+CAN_LIN_Gateway;Arduino Mega 2560 (Rev3);;;;
+DHT1;Humidity and Temperature Sensor DHT11;;;;
+Diode2;Diode;;;;
+LED7;Yellow (595nm) LED;;;;
+LED8;Red (633nm) LED;;;;
+LED9;Green (555nm) LED;;;;
+LIN_Slave;Arduino Uno (Rev3) - ICSP;;;;
+MCP2003-MASTER;MCP2003;;;;
+MCP2003-SLAVE2;MCP2003;;;;
+R1 - LIN Pullup3;1kΩ Resistor;;;;
+S5;Pushbutton;;;;
+S6;Pushbutton;;;;
+
+Amount;Part Type;mn;mpn;part number;
+1;1kΩ Resistor;;;;
+1;Arduino Mega 2560 (Rev3);;;;
+1;Arduino Uno (Rev3) - ICSP;;;;
+1;BC9VPC;;;;
+1;Diode;;;;
+1;Green (555nm) LED;;;;
+1;Humidity and Temperature Sensor DHT11;;;;
+2;MCP2003;;;;
+2;Pushbutton;;;;
+1;Red (633nm) LED;;;;
+1;Yellow (595nm) LED;;;;
