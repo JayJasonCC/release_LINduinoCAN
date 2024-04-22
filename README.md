@@ -37,7 +37,7 @@ Thus, developing an accessible, deployable, and expandable platform for CAN and 
 1.	Investigate widespread vehicular communication protocols, identifying technologies used within systems of differing criticality and function within an automotive context. 
 2.	Identify attacks against vehicular communication protocols and its capability to inadvertently affect the vehicle, subsidised with available mitigations and the utilised platforms. 
 3.	Develop an experimental platform for CAN and LIN bus capable of implementing CyS proposals for LIN bus and/ or assist in the development of novel approaches to LIN bus security. 
-4.	Evaluate the developed platform against previously identified works, while providing scenario-based testing to review its CAN and LIN communication capabilities. 
+4.  Evaluate the developed platform against previously identified works, while providing scenario-based testing to review its CAN/ LIN communication capabilities and how it addresses accessibility concerns. 
 
  
 
